@@ -1,2 +1,5 @@
-# Malaria-Detection
-Malaria Detection from image cells - Malaria Detection from image cells using extraction techniques Using Machine Learning &amp; Deep Learning models for the classification tasks.
+# Analysis of traditional and deep learning methods on Malaria Detection from Image Cells
+
+We go through a detailed study of tradition machine learning algorithms for malaria detection. Attached Report details the analysis. 
+
+
